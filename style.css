@@ -1,0 +1,33 @@
+body{
+    background: darkslategrey;
+    font-family: 'Indie Flower', cursive;
+}
+.header_diV{
+    background: burlywood;
+    color: lightseagreen;
+}
+.header_diV p{
+    font-family: 'Englebert', sans-serif;
+    color: rgb(177, 255, 215);
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button{
+    font-family: 'Englebert', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copyright_footer{
+    position: fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(3, 180, 56);
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(8, 49, 126);
+}
